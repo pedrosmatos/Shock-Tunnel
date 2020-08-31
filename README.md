@@ -7,4 +7,4 @@ From given nozzle throat-to-exit area ratio, this jupyter also calculates exit p
   - Equilibrium Flow and
   - Instantaneous transition from equilibrium to frozen at user-definied Mach number position.
   
-  Once based on Catera, this code can be easily modified to estimate, for example, ignition delay in shock tubes, or kinetic, thermodinamic and transport parameters. 
+  Being based on Catera, this code can be easily modified to estimate, for example, ignition delay in shock tubes, or kinetic, thermodinamic and transport parameters. 
